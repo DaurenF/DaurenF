@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaurenF
 - 👀 I’m interested in many stuff, it's easier to say what I'm not interested in
-- 🌱 I’m currently learning Java
+- 🌱 I’m a Java Developer
 - 📫 How to reach me: daurenlanguage@gmail.com
 
 <!---
